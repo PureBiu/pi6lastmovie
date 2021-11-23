@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pi6lastmovie/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pi6lastmovie/static/js/main.2326092b.chunk.js",
+    "main.js.map": "/pi6lastmovie/static/js/main.2326092b.chunk.js.map",
+    "runtime-main.js": "/pi6lastmovie/static/js/runtime-main.9096ebca.js",
+    "runtime-main.js.map": "/pi6lastmovie/static/js/runtime-main.9096ebca.js.map",
+    "static/js/2.7917f577.chunk.js": "/pi6lastmovie/static/js/2.7917f577.chunk.js",
+    "static/js/2.7917f577.chunk.js.map": "/pi6lastmovie/static/js/2.7917f577.chunk.js.map",
+    "static/js/3.47f9894a.chunk.js": "/pi6lastmovie/static/js/3.47f9894a.chunk.js",
+    "static/js/3.47f9894a.chunk.js.map": "/pi6lastmovie/static/js/3.47f9894a.chunk.js.map",
+    "index.html": "/pi6lastmovie/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pi6lastmovie/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7917f577.chunk.js.LICENSE.txt": "/pi6lastmovie/static/js/2.7917f577.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pi6lastmovie/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9096ebca.js",
+    "static/js/2.7917f577.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2326092b.chunk.js"
+  ]
+}
